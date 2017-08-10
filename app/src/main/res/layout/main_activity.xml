@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ailatrieuphu_bg"
+    android:gravity="center"
+    android:layout_margin="3dp"
+    android:weightSum="10"
+    >
+    <Button
+        android:id="@+id/btn_startgame_allfeature"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Start game"/>
+    <Button
+        android:id="@+id/btn_userinfo_allfeature"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="User Info"/>
+    <Button
+        android:id="@+id/btn_gamerstatistic_allfeature"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Gamer Statistic"/>
+    <Button
+        android:id="@+id/btn_exit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Change Account"/>
+
+
+
+
+</LinearLayout>

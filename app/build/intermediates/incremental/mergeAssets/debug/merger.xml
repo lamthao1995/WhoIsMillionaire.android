@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/nhatcuong1/Downloads/DemoALTP/app/src/main/assets"><file name="ALTP.sqlite" path="/Users/nhatcuong1/Downloads/DemoALTP/app/src/main/assets/ALTP.sqlite"/></source></dataSet><dataSet config="debug"><source path="/Users/nhatcuong1/Downloads/DemoALTP/app/src/debug/assets"/></dataSet></merger>
